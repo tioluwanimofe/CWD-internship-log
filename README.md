@@ -142,7 +142,7 @@ pio device monitor
 ## 📬 Contact
 
 **Author**: *\[Tio Adesanya]*
-**Role**: ELectrical Engineering Intern – Everzip Project, Summer 2025
+**Role**: Electrical Engineering Intern – Everzip Project, Summer 2025
 **Email**: \[[atioluwanimofe@gmail.com](mailto:atioluwanimofe.com)]
-**Portfolio**: \[tiolwuanimofe@netlify.com]
+**Portfolio**: \[tioluwanimofe@netlify.com]
 **LinkedIn**: \[linkedin.com/in/[tioluwanimofe-adesanya/](https://www.linkedin.com/in/tioluwanimofe-adesanya/)]
